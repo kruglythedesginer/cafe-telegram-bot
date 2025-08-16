@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Проверить чистоту пола и поверхностей после уборки",
+        "requires_media": false
+    },
+    {
+        "question": "Вывеска включена",
+        "requires_media": false
+    },
+    {
+        "question": "Выставлены цветы и рекламный штендер",
+        "requires_media": true
+    },
+    {
+        "question": "Сервировка столов проверена (есть подставки под специи, салфетницы укомплектованы и выставлены украшения)",
+        "requires_media": false
+    },
+    {
+        "question": "Проверен потолок на наличие скопления воды, при необходимости вода слита",
+        "requires_media": true
+    },
+    {
+        "question": "Выставлены тэйблтэнты",
+        "requires_media": false
+    },
+    {
+        "question": "Свет включен (окна, зеркало, входная группа, щиток, бар)",
+        "requires_media": false
+    },
+    {
+        "question": "В зале отсутствует запах",
+        "requires_media": false
+    },
+    {
+        "question": "Включена кофемашина",
+        "requires_media": false
+    },
+    {
+        "question": "Включен телевизор и музыка",
+        "requires_media": false
+    },
+    {
+        "question": "Включен кипер и касса",
+        "requires_media": false
+    },
+    {
+        "question": "Размен посчитан",
+        "requires_media": false
+    },
+    {
+        "question": "Инстаграм проверен",
+        "requires_media": true
+    },
+    {
+        "question": "Холодильник включен и укомплектован",
+        "requires_media": true
+    },
+    {
+        "question": "Хозов и инвентаря достаточно",
+        "requires_media": false
+    },
+    {
+        "question": "Стартовая посуда натёрта",
+        "requires_media": false
+    },
+    {
+        "question": "Стоп лист отправлен и отдан официантам",
+        "requires_media": true
+    },
+    {
+        "question": "Летучка проведена. Задачи на день розданы",
+        "requires_media": false
+    },
+    {
+        "question": "Туалет чист и укомплектован. График уборки на месте",
+        "requires_media": true
+    },
+    {
+        "question": "Время прихода работников записано",
+        "requires_media": false
+    },
+    {
+        "question": "Каплесборник на пивной установке стоит",
+        "requires_media": true
+    },
+    {
+        "question": "Мусорка на улице убрана и заправлен чистый пакет",
+        "requires_media": true
+    }
+]

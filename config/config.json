@@ -1,0 +1,7 @@
+{
+    "bot_token": "8278652723:AAG8kR-pfoaWpYwY_WUswPzZ0ciogjILUps",
+    "bot_settings": {
+        "poll_interval": 0.5,
+        "timeout": 10
+    }
+}

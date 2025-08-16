@@ -1,0 +1,74 @@
+[
+    {
+        "question": "Санузел убран и дверь приоткрыта для проветривания",
+        "requires_media": false
+    },
+    {
+        "question": "Холодильник выключен",
+        "requires_media": false
+    },
+    {
+        "question": "На кухне выключен свет, закрыты холодильники и двери",
+        "requires_media": false
+    },
+    {
+        "question": "Кофемашина вымыта, отключена",
+        "requires_media": false
+    },
+    {
+        "question": "Время прихода на работу учтено и записано",
+        "requires_media": false
+    },
+    {
+        "question": "Вымыта раковина и все поверхности",
+        "requires_media": false
+    },
+    {
+        "question": "Вынесен мусор",
+        "requires_media": false
+    },
+    {
+        "question": "Все накладные за день отправлены",
+        "requires_media": false
+    },
+    {
+        "question": "Проверить инстаграм",
+        "requires_media": true
+    },
+    {
+        "question": "Касса проверена, посчитана и сдана",
+        "requires_media": false
+    },
+    {
+        "question": "Туалет убран, лист уборки заполнен",
+        "requires_media": true
+    },
+    {
+        "question": "Столы убраны, пол вымыт",
+        "requires_media": false
+    },
+    {
+        "question": "Нанесена маркировка",
+        "requires_media": true
+    },
+    {
+        "question": "Кипер выключен",
+        "requires_media": false
+    },
+    {
+        "question": "Выключен свет. ВЫВЕСКА ВКЛЮЧЕНА!",
+        "requires_media": false
+    },
+    {
+        "question": "Сетки опущены",
+        "requires_media": false
+    },
+    {
+        "question": "Музыка отключена",
+        "requires_media": false
+    },
+    {
+        "question": "Дверь закрыта",
+        "requires_media": false
+    }
+]
